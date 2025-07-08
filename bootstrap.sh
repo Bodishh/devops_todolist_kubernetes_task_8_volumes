@@ -2,7 +2,7 @@
 
 cd .infrastructure
 
-kubectl apply -f confgiMap.yml
+kubectl apply -f configMap.yml
 
 
 kubectl apply -f secret.yml
